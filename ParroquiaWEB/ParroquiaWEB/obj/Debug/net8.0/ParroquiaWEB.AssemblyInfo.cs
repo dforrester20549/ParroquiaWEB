@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParroquiaWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5022dc2a76cef699a04ed6741b26e1b9ab8c9b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParroquiaWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParroquiaWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

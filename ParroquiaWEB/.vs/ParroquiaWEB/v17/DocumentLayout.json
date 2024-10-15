@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\ParroquiaWEB\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\OneDrive - Universidad Fid\u00E9litas\\TCU\\ProyectoWEB\\ParroquiaWEB\\ParroquiaWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EEBD41-E2C2-46AE-9D13-B4308BCB43B2}|ParroquiaWEB\\ParroquiaWEB.csproj|c:\\users\\daniel\\onedrive - universidad fid\u00E9litas\\tcu\\proyectoweb\\parroquiaweb\\parroquiaweb\\parroquiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7EEBD41-E2C2-46AE-9D13-B4308BCB43B2}|ParroquiaWEB\\ParroquiaWEB.csproj|solutionrelative:parroquiaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive - Universidad Fid\u00E9litas\\TCU\\ProyectoWEB\\ParroquiaWEB\\ParroquiaWEB\\ParroquiaWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ParroquiaWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\OneDrive - Universidad Fid\u00E9litas\\TCU\\ProyectoWEB\\ParroquiaWEB\\ParroquiaWEB\\ParroquiaWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ParroquiaWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:23:47.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
